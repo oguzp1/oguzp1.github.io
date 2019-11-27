@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /scoredocs
 title: "Score Documents"
 excerpt: "Score Documents"
-author_profile: true
+author_profile: false
 redirect_from: 
-  - /scoredocs
+  - /scores
 ---
 
 Cumulative GPA
