@@ -2,7 +2,7 @@
 permalink: scoredocs/
 title: "Score Documents"
 excerpt: "Score Documents"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /scores
 ---
