@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](https://drive.google.com/file/d/1958CcPG9cYEoof5l4DIeUlx5vsscmQNf/view?usp=sharing)
+
 Education
 ======
 * B.Sc. in Computer Engineering, Istanbul Technical University, 2019
