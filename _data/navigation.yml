@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Scores and Documents"
-    url: /scoresdocs/
+  - title: "Score Documents"
+    url: /scoredocs/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
