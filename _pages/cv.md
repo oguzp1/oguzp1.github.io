@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Computer Engineering, Istanbul Technical University, 2019
-  * Cumulative GPA: 3.90/4.0
+  * Cumulative GPA: 3.90/4.00
   * Department Rank: 1st
 
 Academic Achievements
@@ -37,22 +37,16 @@ Skills
   * Able to calculate several metrics to filter relevant data in documents.
   * Able to use many document and word vectorization methods.
 * Data Mining
-  * Entered a Kaggle contest with 29 groups for a data clearing and prediction project, outperformed reference paper, came 5th.
   * Able to use programming tools to visualize data and processing results.
 * Software Engineering Skills
   * Formal training on the object oriented programming paradigm.
-  * Done several voluntary projects for an online gaming community using Java and SQLite.
-  * Used popular software engineering architectures and libraries during the Android Development internship.
-  * Wrote automated testing scripts for a software project.
   * Able to incorparate functional programming techniques for safer and more maintainable code.
 * Web Development
   * Formal training on socket programming with Python.
-  * Developed a web server with a team using PostgreSQL and Flask.
-  * Conducted a software project using Google Firebase filestores.
-  * Developed Remote Procedure Call clients, name servers, and file servers as a mock remote file system architecture.
+  * Able to work with web server technologies such as Flask, Google Firebase.
+  * Able to implement RPC servers.
 * Data Structures & Algorithms
   * Able to express algorithmic ideas in a multitude of languages such as C, C++ and Python.
-  * Entered several online algorithm contests such as ITU Yazilim Maratonu and CS50 Programming Contest.
 * Programming Languages & Operating Systems
   * Development experience with Java and Python.
   * Experience with JavaScript, C, C++, MATLAB, Haskell.
