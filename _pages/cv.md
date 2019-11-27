@@ -25,7 +25,7 @@ Work experience
 ======
 * Dcipher Analytics Turkey, Data Scientist, June 2019 - Present
 * HAVELSAN, Software Development Intern, August 2018 - September 2018
-* Telpa Communication, Android Development Intern, June 2017 - July 2017
+* Telpa Telecommunication, Android Development Intern, June 2017 - July 2017
   
 Skills
 ======
