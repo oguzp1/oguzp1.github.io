@@ -1,5 +1,5 @@
 ---
-permalink: /scoredocs/
+permalink: scoredocs/
 title: "Score Documents"
 excerpt: "Score Documents"
 author_profile: false
