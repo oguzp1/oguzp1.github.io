@@ -14,6 +14,7 @@ Cumulative GPA
 
 GRE
 ======
+* Date: 25th of October, 2019
 * Score:
   * Verbal: 156 / 170 (73rd percentile)
   * Quantitative: 168 / 170 (93rd percentile)
@@ -22,6 +23,7 @@ GRE
 
 TOEFL (iBT)
 ======
+* Date: 2nd of November, 2019
 * Score: 116 / 120
   * Reading: 30 / 30
   * Writing: 30 / 30
