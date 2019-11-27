@@ -15,14 +15,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Transcript"
-    url: /transcript/
-   
-  - title: "GRE Score"
-    url: /gre/
-    
-  - title: "TOEFL Score"
-    url: /toefl/
+  - title: "Scores and Documents"
+    url: /scoresdocs/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
