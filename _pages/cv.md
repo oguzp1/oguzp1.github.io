@@ -19,7 +19,7 @@ Education
 
 Academic Achievements
 ======
-* MobiWis2019 Conference Paper: “A Survey on Blockchain Awareness Among Students” (Approval received, unpublished).
+* Bahtiyar, S., Paksoy, O., Guldosuren, E. and Pekel, M. (2020). A Survey on Blockchain Awareness among Students. European Journal of Science and Technology, (18), pp. 424 - 434. doi: 10.31590/ejosat.681021
 * Graduated as the highest ranking student in the Faculty of Computer and Informatics in Istanbul Technical University.
 * 4 years (8 academic terms) in Istanbul Technical University’s High Honor List.
 
